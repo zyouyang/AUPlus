@@ -2,7 +2,7 @@
 [![Static Badge](https://img.shields.io/badge/Python-v3.9+-blue)](https://img.shields.io/badge/PyTorch-v1.13+.0-blue) [![Static Badge](https://img.shields.io/badge/PyTorch-v1.13+-brightgreen)](https://img.shields.io/badge/PyTorch-v1.13+.0-brightgreen)
 
 
-Welcome to the official code repository for the **ICWSM 2024** paper paper "How to Improve Representation Alignment and Uniformity in Graph-based Collaborative Filtering?". The code structure adapts from [SELFRec](https://github.com/Coder-Yu/SELFRec).
+Welcome to the official code repository for the **ICWSM 2024** paper "How to Improve Representation Alignment and Uniformity in Graph-based Collaborative Filtering?". The code structure adapts from [SELFRec](https://github.com/Coder-Yu/SELFRec).
 
 ## Introduction
 Our framework performs self-supervised contrastive learning on the user and item representations from the perspective of label-irrelevant alignment and uniformity, in addition to lable-relevant representation alignment and uniformity. With representations less dependent on label supervision, our framework therefore captures more label-irrelevant data structures and patterns, leading to more generalized representation alignment and uniformity.
